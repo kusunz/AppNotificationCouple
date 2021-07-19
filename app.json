@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gau-gau",
-    "slug": "gau-gau",
+    "name": "Blue Couple",
+    "slug": "BlueCouple",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -28,7 +28,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/icon.png"
     },
     "description": ""
   }
